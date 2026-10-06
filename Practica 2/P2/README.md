@@ -55,4 +55,4 @@ Visualización y Conclusión: El resultado se plasma sobre el fotograma original
 
 Ejemplo visual del resultado:
 
-<video src="Video%20Pelotas.mp4" autoplay loop muted playsinline width="100%"><video>
+![Demostración Pelotas](Video_Pelotas.gif)
